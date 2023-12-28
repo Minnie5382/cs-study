@@ -6,5 +6,6 @@
 
 문서는 토픽 별로 정리되어 있고, 각 토픽 별 간단한 퀴즈도 포함되어 있습니다.
 
-공부 자료 :
+#### 공부 자료
+
 [유튜브 쉬운코드 - 데이터베이스 플레이리스트](https://youtube.com/playlist?list=PLcXyemr8ZeoREWGhhZi5FZs6cvymjIBVe&si=_CN3jbQHrG25WSyL)
