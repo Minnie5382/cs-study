@@ -77,3 +77,35 @@
 [16. concurrency control 기초 - (2) recoverability](https://github.com/Minnie5382/cs-study-db/blob/main/db/16.%20concurrency%20control%20%EA%B8%B0%EC%B4%88%20-%20(2)%20recoverability.md)
 
 [16. concurrency control 기초 - (2) recoverability-퀴즈](https://github.com/Minnie5382/cs-study-db/blob/main/db/quiz/16.%20concurrency%20control%20%EA%B8%B0%EC%B4%88%20-%20(2)%20recoverability-%ED%80%B4%EC%A6%88.md)
+
+[17. Isolation Level.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/17.%20Isolation%20Level.md)
+
+[17. Isolation Level-퀴즈.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/quiz/17.%20Isolation%20Level-%ED%80%B4%EC%A6%88.md)
+
+[18. Lock & 2PL.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/18.%20Lock%20%26%202PL.md)
+
+[18. Lock & 2PL-퀴즈.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/quiz/18.%20Lock%20%26%202PL-%ED%80%B4%EC%A6%88.md)
+
+[19 & 20. MVCC.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/19%20%26%2020.%20MVCC.md)
+
+[19 & 20. MVCC-퀴즈.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/quiz/19%20%26%2020.%20MVCC-%ED%80%B4%EC%A6%88.md)
+
+[21. DB 설계를 잘못할 경우 발생하는 문제점.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/21.%20DB%20%EC%84%A4%EA%B3%84%EB%A5%BC%20%EC%9E%98%EB%AA%BB%ED%95%A0%20%EA%B2%BD%EC%9A%B0%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
+
+[21. DB 설계를 잘못할 경우 발생하는 문제점-퀴즈.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/quiz/21.%20DB%20%EC%84%A4%EA%B3%84%EB%A5%BC%20%EC%9E%98%EB%AA%BB%ED%95%A0%20%EA%B2%BD%EC%9A%B0%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%A0%9C%EC%A0%90-%ED%80%B4%EC%A6%88.md)
+
+[22. Functional Dependency.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/22.%20Functional%20Dependency.md)
+
+[22. Functional Dependency-퀴즈.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/quiz/22.%20Functional%20Dependency-%ED%80%B4%EC%A6%88.md)
+
+[23 & 24. 정규화.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/23%20%26%2024.%20%EC%A0%95%EA%B7%9C%ED%99%94.md)
+
+[23 & 24. 정규화-퀴즈.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/quiz/23%20%26%2024.%20%EC%A0%95%EA%B7%9C%ED%99%94-%ED%80%B4%EC%A6%88.md)
+
+[25. Index.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/25.%20Index.md)
+
+[25. Index-퀴즈.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/quiz/25.%20Index-%ED%80%B4%EC%A6%88.md)
+
+[26 & 27. B-tree.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/26%20%26%2027.%20B-tree.md)
+
+[26 & 27. B-tree-퀴즈.md](https://github.com/Minnie5382/cs-study-db/blob/main/db/quiz/26%20%26%2027.%20B-tree-%ED%80%B4%EC%A6%88.md)
