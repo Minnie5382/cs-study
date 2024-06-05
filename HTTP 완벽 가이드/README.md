@@ -7,4 +7,4 @@
 
 ## 공부 자료
 
-![image](https://github.com/Minnie5382/cs-study/assets/97179789/48efdc43-c6ad-4823-94ed-3692c2cddfdb)
+<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966261208.jpg" height="500px" />
